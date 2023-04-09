@@ -1,2 +1,2 @@
-# project_1_nfactorial
-Jumystap desktop version
+# project_2_nfactorial
+Jumystap mobile version
