@@ -1,1 +1,2 @@
-# project_2_nfactorial
+# project_1_nfactorial
+Jumystap desktop version
